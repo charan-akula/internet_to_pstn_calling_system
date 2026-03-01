@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+livekit-api
+python-dotenv
+aiohttp
+pydantic
