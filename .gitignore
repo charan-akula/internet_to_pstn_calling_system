@@ -1,7 +1,3 @@
-# DataSet and Preprocessing Files
-datset_timing_violation.xlsx
-datapreproecssing_and_violationprediction.ipynb
-
 # Virtual Environment
 .venv/
 venv/
