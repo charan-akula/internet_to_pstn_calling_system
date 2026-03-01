@@ -29,3 +29,6 @@ pnpm-lock.yaml
 *.swp
 *.swo
 *~
+
+# trunk file
+outbound_trunk.json
