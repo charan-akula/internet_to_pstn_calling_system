@@ -1,2 +1,10 @@
-client/* linguist-vendored
-server/* linguist-detectable
+# Ignore JavaScript files from language statistics
+*.js linguist-vendored
+*.jsx linguist-vendored
+*.json linguist-vendored
+*.css linguist-vendored
+
+package-lock.json linguist-vendored
+
+# Mark Python files as detectable
+*.py linguist-detectable
