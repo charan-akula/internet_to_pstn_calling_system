@@ -50,7 +50,7 @@ LIVEKIT_API_SECRET=your_api_secret
 # The LiveKit SIP Trunk ID that is connected to your Twilio number
 SIP_TRUNK_ID=your_sip_trunk_id
 
-follow the given guide to generate SIP Trunk ID : https://drive.google.com/file/d/1lO9HRuvdpB03v379Y42VOcWSu-RQIzAX/view?usp=sharing 
+follow the given guide to generate SIP Trunk ID : https://drive.google.com/file/d/1wXdQO4aQ-8XPfm5xKNUk84KQsAzwTfPO/view?usp=sharing
 ```
 
 Run the backend:
